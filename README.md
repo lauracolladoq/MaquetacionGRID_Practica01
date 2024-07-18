@@ -31,6 +31,7 @@ Se utiliza control de versiones con Git. Puedes encontrar el repositorio [aquí]
 
 - **Laura Collado Quirantes** - Desarrollador Web - [lauracolladoq](https://github.com/lauracolladoq)
 - **Laura Collado Quirantes** - Documentación - [lauracolladoq](https://github.com/lauracolladoq)
+- **Oussama Atifi**
 
 ## 📜 | Licencia
 
